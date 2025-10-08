@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi!
+Pronouns: she/her
+Fun fact: My favorite song of all time is Everybody Wants to Rule the World by Tears For Fears. 
+
+I'm currently working on an independent project in R regarding the books I read and how I rate them. The main question I am asking is, "Can I predict a poorly rated book or a DNF?" This comes from my experience with BookTok, a subdivision on TikTok dedicated to (you guessed it) books. I have noticed that these popular recommendations do not tend to be up to my standards of a "good" book, so I want to see if I could break down the characteristics that constitute a "good" book versus a "bad" one. 
+
+You can reach me at: https://www.linkedin.com/in/alyssa-albritton-063934332/
+
 
 <!--
 **aalbritton/aalbritton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
